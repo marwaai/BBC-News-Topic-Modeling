@@ -26,7 +26,7 @@ I manually prepared the data for visualization by:
 
 ## 🌐 Live Interactive Dashboards
 Since I enabled GitHub Pages, you can explore the topic distributions interactively:
-* 🟢 [**Interactive NMF Visualization**](https://marwaai.github.io/BBC-News-Topic-Modeling/nmf_visualization_fixed.html)
+* 🟢 [**Interactive NMF Visualization**](https://marwaai.github.io/BBC-News-Topic-Modeling/nmf_visualization_fixed%20(1).html) 
 * 🔵 [**Interactive LDA Visualization**](https://marwaai.github.io/BBC-News-Topic-Modeling/lda_visualization.html)
 
 *(Note: Replace the links above with your actual GitHub Pages URLs if they differ)*
